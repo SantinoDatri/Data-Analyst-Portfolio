@@ -26,7 +26,7 @@ Cada proyecto refleja mi capacidad de trabajar con datos, aplicar medidas DAX, d
 
 ---
 
-## 🛠️ Habilidades aplicadas
+## Habilidades aplicadas
 - **Power BI avanzado:** Modelado de datos, medidas DAX, diseño de dashboards interactivos.  
 - **Data Cleaning:** Normalización de categorías, tratamiento de nulos, preparación de datasets.  
 - **Storytelling con datos:** Construcción de KPIs relevantes y comunicación de insights para la toma de decisiones.  
