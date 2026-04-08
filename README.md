@@ -1,8 +1,8 @@
 # Data Analyst Portfolio – Santino D'Atri
 
-Bienvenido a mi portfolio de proyectos de **Data Analytics**.  
-Aquí encontrarás dashboards desarrollados en **Power BI**, con foco en **KPIs, storytelling y análisis de negocio**.  
-Cada proyecto refleja mi capacidad de trabajar con datos, aplicar medidas DAX, diseñar visualizaciones interactivas y comunicar insights accionables.
+Bienvenidos a mi portfolio de proyectos de **Data Analytics**.  
+Acá vas a encontrar dashboards hechos en **Power BI**, con foco en **KPIs, storytelling y análisis de negocio**.  
+Cada proyecto muestra cómo trabajo con datos, aplico medidas DAX, diseño visualizaciones interactivas y comunico insights que sirven para tomar decisiones.
 
 ---
 
