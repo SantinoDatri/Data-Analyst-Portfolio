@@ -25,5 +25,5 @@ Vía Kaggle: https://www.kaggle.com/datasets/hamedahmadinia/global-bike-sales-da
 - A pesar de las caídas, el negocio logra recuperarse en años posteriores
 
 ## Capturas
-![Vista general del Dashboard](Bike_Sales_Dashboard/dashboard_overview.png)
-![Vista general de página Productos](Bike_Sales_Dashboard/products_overview.png)
+![Vista general del Dashboard](dashboard_overview.png)
+![Vista general de página Productos](products_overview.png)
