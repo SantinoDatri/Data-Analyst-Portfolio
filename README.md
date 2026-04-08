@@ -40,6 +40,6 @@ Me especializo en **Power BI, DAX, MySQL, Excel, limpieza de datos y diseño de 
 
 ---
 
-## 🔗 Contacto
+## Contacto
 - **LinkedIn:** https://www.linkedin.com/in/santinodatri/
 - **Email:** sandatri02@gmail.com
